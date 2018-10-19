@@ -19,4 +19,6 @@ note that you should not change the order of the scripts:
 
 ## Basic example
 
-Format: ![Pagination image](https://i.imgur.com/dgRTMDo.png)
+![Pagination image](https://i.imgur.com/dgRTMDo.png)
+![Pagination gif](https://i.imgur.com/bqAc8ql.gif)
+
